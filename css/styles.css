@@ -1,1 +1,15 @@
+.fmt {
+    background-color: rgb(18, 18, 194);
+    color: black; 
+    font-size:23px;
+ border: 2px solid black;
+margin-inline: 500px ;
+ padding:  20px;
+ }
 
+.bg {
+    background-color:navy;
+    margin: 110px;
+    border: 10px solid black;
+       }
+       
